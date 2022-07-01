@@ -4,3 +4,4 @@ script that generates the assembly code of a C code and save it in an output fil
  script that compiles a C file and creates an executable named cisfun
 hello puts task 4
 statement printed with new line
+task 6
