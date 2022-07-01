@@ -5,3 +5,4 @@ script that generates the assembly code of a C code and save it in an output fil
 hello puts task 4
 statement printed with new line
 task 6
+task 7 intel
